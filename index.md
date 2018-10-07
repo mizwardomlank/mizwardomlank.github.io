@@ -1,6 +1,6 @@
 ## Hello World </>
 
-I'm Miftah, a web developer! This web is in development. So for more information you can follow me on: 
+I'm Miftah, a web developer! This page is in development. So for more information you can follow me on: 
 - [Linkedin.com](https://linkedin.com/in/miftahmizwar)
 - [Twitter.com](https://twitter.com/mvthm)
 
